@@ -17,7 +17,7 @@ class UserSeeder extends Seeder
             [
                 'name' => 'Douglas admin',  
                 'username' => 'douglas',
-                'email' => 'dougzin@outlook.pt',
+                'email' => 'admin@admin.com',
                 'role'  => 'admin',
                 'status' => 'active',
                 'password' => bcrypt('12345678')
@@ -25,7 +25,7 @@ class UserSeeder extends Seeder
             [
                 'name' => 'Douglas usuario',  
                 'username' => 'douglasuser',
-                'email' => 'douglas@douglas.com',
+                'email' => 'user@user.com',
                 'role'  => 'user',
                 'status' => 'active',
                 'password' => bcrypt('12345678')
@@ -33,8 +33,8 @@ class UserSeeder extends Seeder
             [
                 'name' => 'Douglas vendedor',  
                 'username' => 'douglasvendedor',
-                'email' => 'dougzin@ovendedor.com',
-                'role'  => 'admin',
+                'email' => 'vendedor@ovendedor.com',
+                'role'  => 'vendor',
                 'status' => 'active',
                 'password' => bcrypt('12345678')
             ]
