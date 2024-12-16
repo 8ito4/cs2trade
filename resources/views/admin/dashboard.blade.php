@@ -7,7 +7,6 @@
     <title>Painel admnistrador</title>
 </head>
 <body>
-    <h1>
-        Painel administrador</h1>  
+    <h1>Painel administrador</h1>  
 </body>
 </html>
